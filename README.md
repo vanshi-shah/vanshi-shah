@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vanshi Shah 👋</h1>
-<h3 align="center">Frontend Developer · CS Student · Ahmedabad, India 🇮🇳</h3>
+<h3 align="center">Frontend Developer · BCA Student · Ahmedabad, India</h3>
 
 <p align="center">
   I build real websites for real businesses — not just tutorial projects.<br/>
