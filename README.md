@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Vanshi Shah 👋</h1>
 <h3 align="center">Frontend Developer · CS Student · Ahmedabad, India 🇮🇳</h3>
-
 <p align="center">
   I build real websites for real businesses — not just tutorial projects.<br/>
   Currently a student, open to <strong>freelance web projects</strong>.
@@ -9,6 +8,16 @@
 ---
 
 ## 🚀 Featured Work
+
+### 🌸 Perfume Brand Website *(Repo going public soon)*
+> A visually rich website for a perfume brand — every poster and visual asset designed from scratch in **Figma** by me.
+
+- End-to-end ownership: UI design in Figma + frontend development
+- Custom poster designs crafted to match the brand's aesthetic
+- Built with **HTML5, CSS3, JavaScript**
+- 🔒 *Repository currently private — will be made public soon*
+
+---
 
 ### 🎨 [Portfolio](https://vanshis-portfolio.vercel.app)
 > My personal portfolio — designed and developed from scratch, no template, no theme.
@@ -62,7 +71,6 @@
 ## 💼 Open to Freelance
 
 I'm currently a **BCA student at St. Xavier's College, Ahmedabad** looking to take on freelance web projects.
-
 If you need a **clean, fast, and mobile-friendly website** for your business,
 I'd love to help. I bring both technical skills and real client experience.
 
