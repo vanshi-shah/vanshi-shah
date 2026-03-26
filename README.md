@@ -9,14 +9,14 @@
 
 ## 🚀 Featured Work
 
-### 🌸 Perfume Brand Website *(Repo going public soon)*
+### 🌸 [Noir Essence – Perfume Brand Website](https://noir-essence-perfume.vercel.app)
 > A visually rich website for a perfume brand — every poster and visual asset designed from scratch in **Figma** by me.
 
 - End-to-end ownership: UI design in Figma + frontend development
 - Custom poster designs crafted to match the brand's aesthetic
-- Built with **HTML5, CSS3, JavaScript**
+- Built with **HTML5, CSS3, JavaScript**, deployed on **Vercel**
+- 🔗 **[noir-essence-perfume.vercel.app](https://noir-essence-perfume.vercel.app)**
 - 🔒 *Repository currently private — will be made public soon*
-
 ---
 
 ### 🎨 [Portfolio](https://vanshis-portfolio.vercel.app)
