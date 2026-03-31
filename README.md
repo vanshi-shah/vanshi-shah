@@ -80,10 +80,9 @@ I'd love to help. I bring both technical skills and real client experience.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshi-shah&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshi-shah&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="150"/>
+  <img src="https://streak-stats.demolab.com/?user=vanshi-shah&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshi-shah&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
----
 
 <p align="center">
   <i>"The best way to learn is to build something real."</i>
