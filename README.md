@@ -81,7 +81,6 @@ I'd love to help. I bring both technical skills and real client experience.
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=vanshi-shah&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshi-shah&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
