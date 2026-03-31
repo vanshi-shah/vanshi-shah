@@ -16,7 +16,6 @@
 - Custom poster designs crafted to match the brand's aesthetic
 - Built with **HTML5, CSS3, JavaScript**, deployed on **Vercel**
 - 🔗 **[noir-essence-perfume.vercel.app](https://noir-essence-perfume.vercel.app)**
-- 🔒 *Repository currently private — will be made public soon*
 ---
 
 ### 🎨 [Portfolio](https://vanshis-portfolio.vercel.app)
