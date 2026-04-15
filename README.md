@@ -29,7 +29,7 @@
 ---
 
 ### 🏢 [Taksh Enterprise – Official Business Website](https://github.com/vanshi-shah/taksh-website)
-> A production website for a 25+ year old IT hardware company, live at **[takshenterprise.in](https://www.takshenterprise.in)**
+> A production website for a 25+ year old IT hardware company, live at **[[takshenterprise.vercel.app(https://takshenterprise.vercel.app/)]]**
 
 - Multi-page site: Home, Products, Services, Brands, About & Contact
 - Built with **HTML5 + Tailwind CSS**, deployed on **Vercel** with custom domain
