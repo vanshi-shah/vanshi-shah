@@ -2,7 +2,7 @@
 <h3 align="center">Frontend Developer · CS Student · Ahmedabad, India 🇮🇳</h3>
 <p align="center">
   I build real websites for real businesses — not just tutorial projects.<br/>
-  Currently a student, open to <strong>freelance web projects</strong>.
+  Currently a student, open to <strong>internships and freelance web projects</strong>.
 </p>
 
 ---
