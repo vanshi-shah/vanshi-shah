@@ -67,9 +67,8 @@
 
 ---
 
-## 💼 Open to Freelance/Internships (MAY 2026)
-
-I'm currently a **BCA student at St. Xavier's College, Ahmedabad** looking to take on web projects.
+## 💼 Open to Freelance/Internships
+I'm currently a **BCA student at St. Xavier's College, Ahmedabad** and aspiring **Product Developer** looking to take on meaningful projects.
 If you need a **clean, fast, and mobile-friendly website** for your business,
 I'd love to help. I bring technical skills , design skills and real client experience.
 
